@@ -1,0 +1,111 @@
+body{
+    background-color: orange !important;
+}
+
+.first-nav{
+    background-color: lightgrey;
+    height: 30px;
+}
+
+.mid{
+    margin: 0 0 0 270px;
+}
+
+.sell{
+    text-decoration: none;
+    color: orange;
+    margin: 0 0 0 10px;
+}
+
+.mid a{
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+.jum{
+    color: black;
+}
+
+.pay{
+    color: grey;
+}
+
+.pay:hover{
+    color: black;
+}
+
+.navbar-brand{
+    font-size: 36px !important;
+    font-weight: 700;
+}
+
+.search{
+    margin: 0 0 0 6rem;
+}
+
+.search input{
+    width: 370px !important;
+}
+
+.search button{
+    background-color: orange !important;
+    border: none;
+    color: white;
+}
+
+.navbar-nav li{
+    padding: 0 15px;
+}
+
+.lists{
+    background-color: #fff;
+    list-style: none;
+    padding: 10px 15px;
+    margin: 20px 0 30px 0;
+    border-radius: 4px;
+}
+
+.lists li{
+    padding: 3px 0;
+    font-size: 14px;
+    font-weight: 150;
+}
+
+.carousel-item img{
+    height: 345px !important;
+    margin: 20px 0 30px 0;
+    border-radius: 4px;
+}
+
+.card{
+    border: none !important;
+}
+
+.card:hover{
+    box-shadow: 0 8px 8px rgba(14, 13, 13, 0.3) !important;
+}
+
+.card img{
+    height: 130px;
+}
+
+.card-title{
+    text-align: center;
+    font-size: 16px;
+}
+
+.box{
+    background-color: white;
+    height: 200px;
+    padding: 10px 0;
+    border-radius: 5px;
+    padding: 10px 0;
+}
+.box2{
+    background-color: white;
+    height: 200px;
+    padding: 10px 0;
+    margin: 10px 0 0 0;
+    border-radius: 5px;
+    padding: 10px 0;
+}
